@@ -1,0 +1,173 @@
+
+CHANGES in USTORE skucount SHEET:
+
+BRAND: PI-PH-UNL-BRND-CLR
+CAT:PI-PH-UNL-CAT-ORCA (count :2)
+REMOVED
+----------------------
+BRAND: PI-PH-UNL-BRND-CLUP
+CAT:PI-PH-UNL-CAT-FASU(count: 1)
+CTA:PI-PH-UNL-CAT-FASN(count: 1)
+REMOVED
+CAT:PI-PH-UNL-BRND-CLUP(count 14 to 16)
+-----------------------
+BRAND:PI-PH-UNL-BRND-CMFT
+CAT:PI-PH-UNL-CAT-HACA
+REMOVED
+CAT:PI-PH-UNL-CAT-FASU(count: 1 to 3)
+------------------------
+BRAND:PI-PH-UNL-BRND-CMSK
+CAT:PI-PH-UNL-CAT-HMHY
+CAT:PI-PH-UNL-CAT-HMHY
+REMOVED
+CAT:PI-PH-UNL-CAT-HACA(count 23 to 25)
+-------------------------
+BRAND:PI-PH-UNL-BRND-DOMX
+CAT:PI-PH-UNL-CAT-SKCL
+REMOVED
+CAT:PI-PH-UNL-CAT-HMHY(count: 9 to 13)
+-------------------------
+BRAND:PI-PH-UNL-BRND-DOVE
+CAT:PI-PH-UNL-CAT-SKCA
+REMOVED
+CAT:PI-PH-UNL-CAT-DEFR(count: 16 to 14)
+CAT:PI-PH-UNL-CAT-HACA(count: 34 to 36)
+CAT:PI-PH-UNL-CAT-SKCL(count: 27 to 29)
+-------------------------
+BRAND:PI-PH-UNL-BRND-ESNL
+CAT:PI-PH-UNL-CAT-SAVY
+REMOVED
+CAT:PI-PH-UNL-CAT-SKCA(count 9 to 11)
+--------------------------
+BRAND:PI-PH-UNL-BRND-FISN
+CAT:PI-PH-UNL-CAT-SAVY
+REMOVED
+CAT:PI-PH-UNL-CAT-SKCA(count: 2 -> NEWLY ADDED)
+---------------------------
+BRAND:PI-PH-UNL-BRND-KFMN
+CAT:PI-PH-UNL-CAT-SKCA
+REMOVED
+CAT:PI-PH-UNL-CAT-SKCL(count: 2 -> NEWLY ADDED)
+---------------------------
+BRAND:PI-PH-UNL-BRND-KNOR
+CAT:PI-PH-UNL-CAT-DRSG
+REMOVED
+CAT:PI-PH-UNL-CAT-SAVY(count: 28 to 32)
+---------------------------
+BRAND:PI-PH-UNL-BRND-LDCH
+CAT:PI-PH-UNL-CAT-SKCL
+CAT:PI-PH-UNL-CAT-SKCA
+REMOVED
+CAT:PI-PH-UNL-CAT-DRSG(count: 29 to 32)
+CAT:PI-PH-UNL-CAT-OTFD(count: 4 to 5)
+---------------------------
+BRAND:PI-PH-UNL-BRND-LFBY
+CAT:PI-PH-UNL-CAT-TEA
+REMOVED
+CAT:PI-PH-UNL-CAT-SKCL(count: 4 -> NEWLY ADDED)
+----------------------------
+BRAND:PI-PH-UNL-BRND-LPTN
+CAT:PI-PH-UNL-CAT-SKCA
+REMOVED
+CAT:PI-PH-UNL-CAT-TEA(count: 8 to 4 -> NEWLY ADDED)
+----------------------------
+BRAND:PI-PH-UNL-BRND-MSTR
+CAT:PI-PH-UNL-CAT-ORCA
+REMOVED
+CAT:PI-PH-UNL-CAT-SKCA(count: 2 to 8)
+----------------------------
+BRAND:PI-PH-UNL-BRND-PEPS
+CAT:PI-PH-UNL-CAT-SKCA
+REMOVED
+CAT:PI-PH-UNL-CAT-ORCA(count: 2 -> NEWLY ADDED)
+----------------------------
+BRAND:PI-PH-UNL-BRND-POND
+CAT:PI-PH-UNL-CAT-DEFR
+REMOVED
+CAT:PI-PH-UNL-CAT-SKCA(count: 18 to 22)
+----------------------------
+BRAND:PI-PH-UNL-BRND-RXNA
+CAT:PI-PH-UNL-CAT-HACA
+CAT:PI-PH-UNL-CAT-HMHY
+REMOVED
+CAT:PI-PH-UNL-CAT-DEFR(count: 22 to 26)
+----------------------------
+BRAND:PI-PH-UNL-BRND-SNLG
+CAT:PI-PH-UNL-CAT-HACA
+REMOVED
+CAT:PI-PH-UNL-CAT-HMHY(count: 2 -> NEWLY ADDED)
+------------------------------
+BRAND:PI-PH-UNL-BRND-SNLK
+CAT:PI-PH-UNL-CAT-FASN
+REMOVED
+CAT:PI-PH-UNL-CAT-HACA(count: 14 to 18)
+------------------------------
+BRAND:PI-PH-UNL-BRND-SURF
+CAT:PI-PH-UNL-CAT-HMHY
+REMOVED
+CAT:PI-PH-UNL-CAT-FASN(count: 16 to 15)
+CAT:PI-PH-UNL-CAT-FASU(count: 35 to 37)
+CAT:PI-PH-UNL-CAT-HACA(count: 4 to 5)
+-------------------------------
+BRAND:PI-PH-UNL-BRND-TRME
+CAT:PI-PH-UNL-CAT-SKCA
+REMOVED
+CAT:PI-PH-UNL-CAT-HACA(count: 6 to 10)
+--------------------------------
+BRAND:PI-PH-UNL-BRND-VSLN
+CAT:PI-PH-UNL-CAT-HACA
+CAT:PI-PH-UNL-CAT-SKCA (duplicate)
+REMOVED
+CAT:PI-PH-UNL-CAT-SKCA(count: 3 to 8)
+
+
+
+***********************************************
+CHANGES in SUPER8 SKUCOUNT SHEET
+
+BRAND:PI-PH-UNL-BRND-LFBY
+CAT:PI-PH-UNL-CAT-SKCA
+REMOVED
+CAT:PI-PH-UNL-CAT-SKCL(count: 1 -> ADDED NEWLY)
+
+
+****************************************
+
+CHANGES in WALTERMART MAKATI SKUCOUNT SHEET
+
+BRAND:PI-PH-UNL-BRND-BADV
+REMOVED
+--------------------------------
+BRAND:PI-PH-UNL-BRND-CLR
+CAT:PI-PH-UNL-CAT-HACA(count: 2 to 1)
+--------------------------------
+BRAND:PI-PH-UNL-BRND-CLUP
+CAT:PI-PH-UNL-CAT-ORCA(count: 4 to 3)
+--------------------------------
+BRAND:PI-PH-UNL-BRND-CMSK
+CAT:PI-PH-UNL-CAT-HACA(count: 13 to 12)
+---------------------------------
+BRAND:PI-PH-UNL-BRND-DOVE
+CAT:PI-PH-UNL-CAT-HACA(count: 6 to 4)
+---------------------------------
+BRNAD:PI-PH-UNL-BRND-DOVE
+CAT:PI-PH-UNL-CAT-SKCL(count: 8 to 7)
+---------------------------------
+BRAND:PI-PH-UNL-BRND-SURF
+CAT:PI-PH-UNL-CAT-FASN(count: 6 to 5)
+----------------------------------
+BRAND:PI-PH-UNL-BRND-SURF
+CAT:PI-PH-UNL-CAT-FASU(count: 18 to 17)		
+
+
+***************************************
+CHANGES in MySuki Cheersmart SKUCOUNT SHEET
+
+BRAND:PI-PH-UNL-BRND-CLUP
+CAT:PI-PH-UNL-CAT-ORCA(count: 6 to 2)	
+-----------------------------------
+BRAND:PI-PH-UNL-BRND-LDCH
+CAT:PI-PH-UNL-CAT-DRSG(count: 9 to 8)	
+------------------------------------
+BRAND:PI-PH-UNL-BRND-BRZE
+CAT:PI-PH-UNL-CAT-FASU(count: 2 to 3)																							
