@@ -1,0 +1,26 @@
+from selenium import webdriver
+import pyautogui
+from datetime import datetime
+from selenium.webdriver.firefox.options import Options
+
+options = Options()
+# options.headless = True
+profile = webdriver.FirefoxProfile()
+profile.set_preference("general.useragent.override",
+                       "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0")
+
+firefoxdriver = webdriver.Firefox(options=options, firefox_profile=profile,
+                                  executable_path='D:\Dabur\Scrap\gekodriver\geckodriver.exe')
+
+url='https://preview.app.perkpayroll.com/login?ReturnUrl=%2Fdashboard'
+firefoxdriver.get(url)
+print('check 1')
+button =firefoxdriver.find_element_by_xpath('//input[@id="usr"]')
+button.send_keys("jailanib@pixmonks.com")
+button =firefoxdriver.find_element_by_xpath('//input[@id="pwd"]')
+button.send_keys("open")
+button =firefoxdriver.find_element_by_xpath('//input[@class="btn btn-primary btn-login mb-5"]')
+button.click()
+button =firefoxdriver.find_element_by_xpath('//div[@class="col col-6 text-primary text-right"]')
+button.click()
+print('check')
